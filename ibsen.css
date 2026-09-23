@@ -1,0 +1,31 @@
+.speech {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+.direction {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    font-style: italic;
+    color: black;
+    background-color: lightyellow;
+}
+.direction:hover {
+    background-color: lightblue;
+    color: darkred;
+}
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.hedda {
+    color: darkmagenta;
+}
+
+.elvsted {
+    color: darkgreen;
+}
+.q {
+    font-style: italic;
+}
