@@ -29,3 +29,35 @@
 .q {
     font-style: italic;
 }
+.cast-title {
+    text-align: left;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 4px;
+}
+
+.cast-table {
+    border-collapse: collapse;
+    width: 360px;
+    margin: 4px 0;
+}
+
+.cast-table th,
+.cast-table td {
+    border: 1px solid gray;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 14px;
+}
+.cast-table th {
+    background-color: lightgray;
+    color: black;
+}
+
+.cast-table tr:nth-child(even) {
+    background-color: lavender;
+}
+
+.cast-table tr:nth-child(odd) {
+    background-color: white;
+}
